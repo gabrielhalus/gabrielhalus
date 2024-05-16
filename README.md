@@ -8,6 +8,6 @@
 
 📫 You can easily reach me on Instagram: [@gabrielhalus](https://instagram.com/gabrielhalus). Let's connect!
 
-🌐 Check out my portfolio to see what I've been working on: [gabrielhalus.com](https://gabrielhalus.com).
+🌐 Check out my portfolio to see what I've been working on: [www.gabrielhalus.com](https://gabrielhalus.com).
 
 Feel free to drop me a message anytime.
