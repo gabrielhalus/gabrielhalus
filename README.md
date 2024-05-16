@@ -6,7 +6,7 @@
 
 👯 I'm always on the lookout for exciting projects to collaborate on. Got something interesting? Let's chat!
 
-📫 You can easily reach me on Instagram: [@gabrielhalus](https://instagram.com/gabrielhalus). Let's connect!
+📫 You can easily reach me on Instagram: [@gabrielhalus](https://instagram.com/gabrielhalus).
 
 🌐 Check out my portfolio to see what I've been working on: [www.gabrielhalus.com](https://gabrielhalus.com).
 
