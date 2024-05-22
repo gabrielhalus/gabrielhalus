@@ -2,7 +2,7 @@
 
 ## 🌱 A Bit About Me
 
-🔭 Currently, I'm diving deep into developing a Collaborative Pomodoro App – it's all about boosting productivity with friends.
+🔭 Currently, I'm diving deep into developing a [Collaborative Pomodoro App](https://github.com/trekha-com) – it's all about boosting productivity with friends.
 
 👯 I'm always on the lookout for exciting projects to collaborate on. Got something interesting? Let's chat!
 
