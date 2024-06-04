@@ -1,9 +1,19 @@
-E=mc² actually stands for Energy = milk * caffeine² ☕🚀
+# E=mc² actually stands for Energy = milk * caffeine² ☕🚀
 
-# Hi there!
+Hi there! I'm a developer with a passion for code and plenty of coffee. When I'm not debugging, I'm:
 
-I'm a passionate developer fueled by copious amounts of coffee and a love for code. When I'm not debugging, you can find me exploring new technologies, contributing to open source, or perfecting my brew.
+- 🔍 Exploring new technologies
+- 👥 Contributing to open source projects
+- ☕ Perfecting my coffee brew
+
+I also love staying active:
+
+- 🏃‍♂️ **Running**
+- 🥾 **Hiking**
+- 🛸 **Flying FPV drones**
+
+There's nothing like hitting the trails or capturing amazing aerial footage to keep things exciting.
 
 Let's create something amazing together!
 
-🔧 Tech Enthusiast | 💡 Innovator | 🧩 Problem Solver
+## 🔧 Tech Enthusiast | 💡 Innovator | 🧩 Problem Solver
