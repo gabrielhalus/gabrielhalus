@@ -1,13 +1,7 @@
-# 👋 Hey there, I'm Gabriel!
+E=mc² actually stands for Energy = milk * caffeine² ☕🚀
 
-## 🌱 A Bit About Me
+Hi there! I'm a passionate developer fueled by copious amounts of coffee and a love for code. When I'm not debugging, you can find me exploring new technologies, contributing to open source, or perfecting my brew.
 
-🔭 Currently, I'm diving deep into developing a [Collaborative Pomodoro App](https://github.com/trekha-com) – it's all about boosting productivity with friends.
+Let's create something amazing together!
 
-👯 I'm always on the lookout for exciting projects to collaborate on. Got something interesting? Let's chat!
-
-📫 You can easily reach me on Instagram: [@gabrielhalus](https://instagram.com/gabrielhalus).
-
-🌐 Check out my portfolio to see what I've been working on: [www.gabrielhalus.com](https://gabrielhalus.com).
-
-Feel free to drop me a message anytime.
+🔧 Tech Enthusiast | 💡 Innovator | 🧩 Problem Solver
