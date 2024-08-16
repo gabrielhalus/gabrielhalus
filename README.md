@@ -1,4 +1,4 @@
-# Hi there!
+# Hello there!
 
 I'm a developer with a passion for code and plenty of coffee. When I'm not debugging, I'm:
 
