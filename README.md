@@ -14,7 +14,7 @@ Let's create something amazing together!
 ## 🔧 Tech Enthusiast | 💡 Innovator | 🧩 Problem Solver
 
 ## 🏆 My stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=teovlt)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielhalus)](https://git.io/streak-stats) 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
