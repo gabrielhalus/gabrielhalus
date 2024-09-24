@@ -11,8 +11,6 @@ When I'm not debugging, I'm:
 
 Let's create something amazing together!
 
-## 🔧 Tech Enthusiast | 💡 Innovator | 🧩 Problem Solver
-
 ## 🏆 My stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielhalus)](https://git.io/streak-stats) 
 
