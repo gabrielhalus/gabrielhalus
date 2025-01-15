@@ -9,8 +9,6 @@ When I'm not debugging, I'm:
 - ☕ Perfecting my coffee brew
 - 🛸 Flying FPV drones
 
-Let's create something amazing together!
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhalus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
