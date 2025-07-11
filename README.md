@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
-I'm a developer with a soft spot for clean code, clever ideas, and strong coffee.
+I'm a developer who runs on curiosity, code, and probably too much coffee.
 
-I work freelance, building web projects that try to be both useful and well-crafted. When I'm not coding, you'll usually find me fine-tuning my espresso game, flying FPV drones, or out hiking to unplug for a while.
+I work freelance, mostly building web stuff for people and ideas I like. When I'm not buried in a project, I'm usually messing with my coffee setup, flying FPV drones, or hiking to clear my head.
 
-If you're curious about what I'm working on — or just want to say hi — you can head over to [**my website**](https://gabrielhalus.com).
+You can see what I’m up to — or reach out — over at [my website](https://gabrielhalus.com).
