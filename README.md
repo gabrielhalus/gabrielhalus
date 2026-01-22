@@ -6,4 +6,4 @@ I work freelance, mostly building web stuff for people and ideas I like. When I'
 
 You can see what I’m up to — or reach out — over at <a href="https://gabrielhalus.com" target="_blank" rel="noopener noreferrer">my website</a>.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielhalus)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielhalus&theme=transparent)](https://git.io/streak-stats)
